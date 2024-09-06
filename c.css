@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    font-size: 16px;
+    display: flex;
+    flex-direction: column;
+    width: 1097;
+    
+}
+.fr{
+background-color: white;
+display: flex;
+flex-direction: column;
+
+}
+.join{
+    color: rgb(67, 178, 190);
+    padding: 20px ;
+}
+.t{
+    display: flex;
+    flex-direction: column;
+}
+.day{
+    color: #d9dd6e;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+.gain{
+    padding: 20px;
+    color: #a99a9a;
+    line-height: 25px;
+   
+}
+.shh{
+    display:grid;
+    grid-template-columns: 50% 50%;
+
+
+}
+
+
+.sr{
+
+    background-color: rgb(67, 178, 190);
+    display: flex;
+    flex-direction: column;
+}
+.month{
+    color: white;
+    padding: 20px;
+    padding-bottom: 0px;
+}
+h1{
+    padding: 20px;
+    color: white;
+    padding-bottom: 8px;
+}
+span{
+    font-size: 10px;
+    color:  rgba(234, 234, 235, 0.581);
+}
+.full{
+    color: white;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+button{
+     padding: 20px;
+     color: white;
+    margin: 20px;
+   background-color:#d9dd6e;
+    width: 50%;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    padding-bottom: 40px;
+}
+.last{
+    background-color: rgb(112, 180, 188); 
+    padding: 20px;
+}
+.why{
+    color: white;
+    padding-bottom: 20px;
+}
+.tutorials{
+    color: white;
+    line-height: 25px ;
+}
